@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    font-size: 4rem;
+}
+
+.btn{
+    border: none;
+    width: 6rem;
+    height: 4rem;
+    background: black;
+    color:white;
+    border-radius: 50%;
+    font-size: 2rem;
+}
+.reset{
+    width: 6rem;
+    height: 4rem;
+    background:red;
+    color:black;
+    border-radius: 20%;
+    font-size: 1.5rem; 
+}
